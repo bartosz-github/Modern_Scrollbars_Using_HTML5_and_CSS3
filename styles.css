@@ -22,3 +22,6 @@ body {
     overflow: hidden;
 }
 
+.scroll-object {
+    padding: 20px;
+}
